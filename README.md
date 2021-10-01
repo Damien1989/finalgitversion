@@ -1,2 +1,3 @@
 # finalgitversion
+REMOTE
 Bonjour
