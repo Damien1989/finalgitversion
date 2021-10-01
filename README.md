@@ -1,2 +1,3 @@
 # finalgitversion
+LOCAL
 Bonjour
